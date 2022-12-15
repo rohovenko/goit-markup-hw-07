@@ -1,5 +1,7 @@
-.img {
-    display: block;
-    max-width: 100%;
-    height: auto;
+body {
+    background-color: var(--secondary-text-color);
+    color: var(--primary-text-color);
+    font-family: roboto, sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.03em;
 }
